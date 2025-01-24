@@ -9,7 +9,7 @@ main {
     height: 100vh;
     position: relative;
 }
-section {
+section#tel {
     position: absolute;
     top: 50%;
     left: 50%;
