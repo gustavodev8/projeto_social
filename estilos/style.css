@@ -1,8 +1,7 @@
 @charset "URF-8";
 
 body, html {
-    height: 100vh;
-    width: 100vh;
+    height: 98vh;
     background-color: black;
 }
 main {
