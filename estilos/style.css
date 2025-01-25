@@ -2,7 +2,6 @@
 
 body, html {
     height: 98vh;
-    background-color: black;
     background-image: url(../imagens/fundo-madeira.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -17,10 +16,15 @@ section#tel {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    height: 65%;
-    width: 65%;
+    height: 627px;
+    width: 311px;
     background-image: url('../imagens/frame-iphone.png');
     background-repeat: no-repeat;
-    background-size: contain;
-    background-position: center center;
+}
+iframe#home {
+    position: relative;
+    top: 80px;
+    left:24px;
+    width: 264px;
+    height: 470px;
 }
