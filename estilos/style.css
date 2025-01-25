@@ -3,9 +3,13 @@
 body, html {
     height: 98vh;
     background-color: black;
+    background-image: url(../imagens/fundo-madeira.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
 }
 main {
-    height: 100vh;
+    height: 98vh;
     position: relative;
 }
 section#tel {
@@ -13,8 +17,10 @@ section#tel {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    height: 200px;
-    width: 200px;
-    background-color: blue;
-    background-image: url()
+    height: 50%;
+    width: 50%;
+    background-image: url('../imagens/frame-iphone.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
 }
